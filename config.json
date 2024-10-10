@@ -1,0 +1,120 @@
+{
+  "language": "en",
+  "DeveloperMode": true,
+  "autoCreateDB": false,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 200,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "BOTOWNER": "61551846081032",
+  "OWNERLINK": "https://www.facebook.com/profile.php?id=61551846081032",
+  "OWNERID": "61551846081032",
+  "BOTCREATOR": "61551846081032",
+  "CREATORLINK": "https://www.facebook.com/profile.php?id=61551846081032",
+  "CREATORID": "61551846081032",
+  "BOTNAME": "🌺༅•─༅𝐌𝐑.𝐁𝐎𝐒𝐒-𝐀𝐋𝐕𝐈-𝐁𝐎𝐓༅─•༅🌺",
+  "down_api": "https//noobs api.onrender.com",
+  "PREFIX": "/",
+  "ADMINBOT": [
+    "61551846081032",
+    "100093594362645",
+    "100094607734876",
+    "100089450958181",
+    "61554760689499",
+    ""
+  ],
+  "DESIGN": {
+    "Title": "ALVI",
+    "Theme": "Ghost",
+    "Admin": "ALVI",
+    "Setup": {
+      "Title": "Design your own custom terminal Titlebar with a maximum of 8 characters for the title and must contain no numbers",
+      "Theme": "Effortlessly customize your console with a variety of theme colors, making it easier than ever to create your desired console look. Explore themes like Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+  },
+  "version": "1.2.5",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyBVDwRSIEvC1VDL7-6Wx8xmmp4de0m0XQc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyBVDwRSIEvC1VDL7-6Wx8xmmp4de0m0XQc"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "log": {
+    "enable": true
+  },
+  "coinflip": {},
+  "helpv2": {
+    "autoUnsend": true,
+    "delayUnsend": 500
+  },
+  "chemeb": {},
+  "helpall": {
+    "autoUnsend": true,
+    "delayUnsend": 500
+  },
+  "prefix": {
+    "autoUnsend": true,
+    "delayUnsend": 20
+  },
+  "music": {
+    "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+  },
+  "music2": {
+    "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+  },
+  "help2": {
+    "autoUnsend": true,
+    "delayUnsend": 500
+  },
+  "god": {
+    "enable": true
+  }
+}
